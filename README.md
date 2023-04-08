@@ -1,5 +1,5 @@
 ### Hello, My name is Fredrik 👋
-#### Frontend Engineer specializing in React. Working with NextJS, Prisma, Tailwind, React-native, Flutter
+#### Frontend Engineer specializing in React. Working with NextJS, Prisma, Tailwind, PlanetScale and React-native
 
 I'm a Frontend Engineer in love with the world of React. I love to build and collaborate on stuff with people and learning new things. Recently I've been a lot into mobile development. Recently been creating a stats tracker-app in the sport of discgolf, using React-native and Firebase.
 
