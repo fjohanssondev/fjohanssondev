@@ -7,13 +7,13 @@ If you'd like to collaborate on a project together, be sure to reach me using my
 
 ## Passionate about this tech stack
 
-NextJS, Prisma, TRPC Tailwind, PlanetScale and React-native
+NextJS, Prisma, TRPC, Tailwind, PlanetScale and React-native
 
 ### How to find me 🌎
 
 ---
 
-Website: [Portfolio](https://www.fjohansson.dev)<br>
+Website: [Portfolio](https://www.fjohansson.dev)<br> (old)
 LinkedIn: [View Profile](https://www.linkedin.com/in/fredrik-johansson-50494a127/)
 
 ---
