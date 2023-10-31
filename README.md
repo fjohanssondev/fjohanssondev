@@ -13,7 +13,7 @@ NextJS, Prisma, TRPC, Tailwind, PlanetScale and React-native
 
 ---
 
-Website: [Portfolio](https://www.fjohansson.dev)<br> (old)
+Website: [Portfolio](https://www.fjohansson.dev) (old)<br>
 LinkedIn: [View Profile](https://www.linkedin.com/in/fredrik-johansson-50494a127/)
 
 ---
