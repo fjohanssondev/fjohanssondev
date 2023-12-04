@@ -23,4 +23,3 @@ LinkedIn: [View Profile](https://www.linkedin.com/in/fredrik-johansson-50494a127
 - 🏎️  Love the world of Formula 1
 - ⚽  Real Madrid
 - 📫  How to reach me: fjohanssondev@gmail.com
-- 🔥  Been coding for about 1 and a half year now
