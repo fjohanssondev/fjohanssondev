@@ -7,7 +7,7 @@ If you'd like to collaborate on a project together, be sure to reach me using my
 
 ## Passionate about this tech stack
 
-NextJS, Prisma, TRPC, Tailwind, PlanetScale and React-native
+NextJS, Prisma, TRPC, Tailwind, and Expo
 
 ### How to find me 🌎
 
