@@ -1,1 +1,1 @@
-Software engineer building web applications with React, Angular, and TypeScript
+Software engineer building web applications with React and TypeScript.
